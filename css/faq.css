@@ -1,0 +1,109 @@
+.jumbotron{
+    background-image: url("../images/faqbg.jpg");
+    color: white;
+    height: 294px;
+}
+
+.jumbotron h1{
+    font-family: Constantia;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.jumbotron p{
+	font-family: Cambria;
+    text-align: center;
+}
+
+.text-page {
+    padding-bottom: 40px;
+    font-size: 18px;
+}
+
+.l-container--tiny {
+    width: 740px;
+    max-width: 100%;
+}
+
+p{
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+@media (max-width: 999px)
+application-8df56f9….css:1
+.l-container-center {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.l-container-center {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 61px;
+    margin-bottom: 50px;
+}
+
+.l-container-center ul{
+	color: #990033;
+}
+
+*, :before, :after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.clearfix:after, .l-container-center:after, .l-row:after, .photos:after, .trending-photos:after, .photo-details:after, .photo-row__header:after, .photo-row__grid:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+dt {
+    font-weight: 700;
+    margin-top: 37px;
+}
+
+application-8df56f9….css:1
+*, :before, :after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body, html {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Cantarell","Open Sans","Helvetica Neue","Ubuntu",sans-serif;
+    color: #333;
+    font-size: 14px;
+}
+
+
+
+footer{
+  margin-top: -50px;
+}
+
+footer p {
+    margin-bottom: -99px;
+    margin-left: 200px;
+    margin-right: 196px;
+    font-family: -webkit-pictograph;
+    font-size: 16px;
+}
+
+
+hr {
+    margin-top: -65px;
+    margin-left: 193px;
+    width: 72%;
+    margin-bottom: 67px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+
